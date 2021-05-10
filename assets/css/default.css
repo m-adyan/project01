@@ -38,10 +38,10 @@
     --p-size: 1rem;
     --p-weight: 400;
 
-    --header-bg-color: #1d0641;
-    --nav-top-bg-color: #1d0641;
-    --nav-sub-bg-color: #1d0641;
-    --nav-holder-bg-color: #1d0641;
+    --header-bg-color: #21333e;
+    --nav-top-bg-color: #21333e;
+    --nav-sub-bg-color: #21333e;
+    --nav-holder-bg-color: #21333e;
     --nav-brand-height: 35px;
     --nav-item-color: #f9f9f9;
     --hero-bg-color: #111117;
@@ -54,7 +54,7 @@
     --black-color: #000007;
     --dark-grey-color: #111117;
 
-    --primary-t-color: #1d0641;
+    --primary-t-color: #21333e;
     --secondary-t-color: #f9f9f9; 
     --primary-p-color: #606d75;
     --secondary-p-color: #c0c3d0;
